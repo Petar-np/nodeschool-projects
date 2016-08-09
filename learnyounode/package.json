@@ -13,6 +13,7 @@
     "isarray": "^1.0.0",
     "process-nextick-args": "^1.0.7",
     "readable-stream": "^2.1.4",
+    "strftime": "file:node_modules/strftime",
     "string_decoder": "^0.10.31",
     "util-deprecate": "^1.0.2"
   },
