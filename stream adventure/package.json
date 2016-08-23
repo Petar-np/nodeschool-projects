@@ -1,0 +1,22 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "Petar_np nodeschool stream adventure project",
+  "main": "meet_pipe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petar-np/nodeschool-projects.git"
+  },
+  "author": "Petar_np",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Petar-np/nodeschool-projects/issues"
+  },
+  "homepage": "https://github.com/Petar-np/nodeschool-projects#readme",
+  "devDependencies": {
+    "through2": "^2.0.1"
+  }
+}
